@@ -9,7 +9,7 @@ namespace testgithub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Katt";
+            label1.Text = "Hej";
         }
     }
 }
